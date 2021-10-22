@@ -1,6 +1,9 @@
 // config/database.js
+
+
+//always update myfirstdatabase
 module.exports = {
 
-    'url' : 'mongodb+srv://demo:demo@cluster0.q2ojb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', 
-    'dbName': 'demo'
+    'url' : "mongodb+srv://Btech:mongo123@cluster0.6gudl.mongodb.net/dailytasks?retryWrites=true&w=majority", 
+    'dbName': 'dailytasks'
 };

@@ -1,3 +1,6 @@
+Morning Habits App, user login to track progress of dailytasks that are posted to DB
+
+
 ## Installation
 
 1. Clone repo

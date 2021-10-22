@@ -1,6 +1,6 @@
 var thumbUp = document.getElementsByClassName("fa-thumbs-up");
-var thumbDown = document.getElementsByClassName("fa-thumbs-down");
 var trash = document.getElementsByClassName("fa-trash");
+var thumbDown = document.getElementsByClassName("fa-thumbs-down");
 
 Array.from(thumbUp).forEach(function(element) {
       element.addEventListener('click', function(){
@@ -24,7 +24,6 @@ Array.from(thumbUp).forEach(function(element) {
           window.location.reload(true)
         })
       });
-      
 });
 
 Array.from(trash).forEach(function(element) {

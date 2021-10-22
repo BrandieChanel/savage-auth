@@ -1,7 +1,9 @@
 body{
+  font-family: 'Sanchez', serif;
+  color:rgb(76,41,11);
   padding-top:80px;
   word-wrap:break-word;
 }
 img{
-  height: 200px;
+  height: 400px;
 }
