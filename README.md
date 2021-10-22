@@ -1,16 +1,2 @@
-Morning Habits App, user login to track progress of dailytasks that are posted to DB
-
-
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+# morning-habits
+ 
